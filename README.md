@@ -11,7 +11,7 @@ https://drive.google.com/drive/folders/1ZddvgCtaz3Hvq6Xp3teR6VyokVCegpiR?usp=sha
 
 for CNN and DNN, you must download the JSON file too because the JSON file saves my CNN/DNN architecture.
 
-For the video demo of the work, visit this link :
+For the video result of the work, visit this link :
 https://drive.google.com/drive/folders/15A0Btp7llxlFWEHZBADPnHOoAOsgmNEd?usp=sharing
 
 -------------------------------------------------------------------------------------------------------------------------------

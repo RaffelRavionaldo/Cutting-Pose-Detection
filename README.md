@@ -15,3 +15,10 @@ For the video result of the work, visit this link :
 https://drive.google.com/drive/folders/15A0Btp7llxlFWEHZBADPnHOoAOsgmNEd?usp=sharing
 
 -------------------------------------------------------------------------------------------------------------------------------
+
+Reference
+https://alimustoofaa.medium.com/yolov8-pose-estimation-and-pose-keypoint-classification-using-neural-net-pytorch-98469b924525
+
+https://github.com/mmakos/HPC
+
+https://s3.eu-central-1.amazonaws.com/ucu.edu.ua/wp-content/uploads/sites/8/2020/11/Zakharchenko-Iryna_188601_assignsubmission_file_Iryna-Zakharchenko.pdf

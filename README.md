@@ -16,9 +16,8 @@ https://drive.google.com/drive/folders/15A0Btp7llxlFWEHZBADPnHOoAOsgmNEd?usp=sha
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-Reference
-https://alimustoofaa.medium.com/yolov8-pose-estimation-and-pose-keypoint-classification-using-neural-net-pytorch-98469b924525
+Reference :
 
-https://github.com/mmakos/HPC
-
-https://s3.eu-central-1.amazonaws.com/ucu.edu.ua/wp-content/uploads/sites/8/2020/11/Zakharchenko-Iryna_188601_assignsubmission_file_Iryna-Zakharchenko.pdf
+1. https://alimustoofaa.medium.com/yolov8-pose-estimation-and-pose-keypoint-classification-using-neural-net-pytorch-98469b924525
+2. https://github.com/mmakos/HPC
+3. https://s3.eu-central-1.amazonaws.com/ucu.edu.ua/wp-content/uploads/sites/8/2020/11/Zakharchenko-Iryna_188601_assignsubmission_file_Iryna-Zakharchenko.pdf

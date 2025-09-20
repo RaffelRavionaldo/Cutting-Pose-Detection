@@ -1,5 +1,9 @@
 Use YoloV8 pose detection to get a human keypoint and save it to a CSV file for training a Machine learning and Neural Network for detecting human pose, In this section I will detect if the human is in a cutting pose or not.
 
+I create a medium blog for this code and explanation how the logic behind it : 
+
+https://medium.com/@ravionaldoraffel/create-a-human-pose-detection-using-yolov8-key-point-detection-and-machine-learning-model-f1ebe1f237e1
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 Before you run the code, you must download the yolov8 keypoint detection weight in this link :
